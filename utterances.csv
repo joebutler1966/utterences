@@ -1,0 +1,49 @@
+Utterances:,Intents:
+What are the best dog treats for training?,recommendation
+I need suggestions for healthy dog treats.,recommendation
+Can you recommend some grain-free dog treats?,recommendation
+"My dog has allergies, what treats are safe?",recommendation
+Where can I buy homemade dog treats?,shopping
+What are the ingredients in your peanut butter dog treats?,product_info
+Are there any special offers on dog treats today?,promotion
+How many treats can I give my dog in a day?,information
+What is the calorie content of your dog treats?,product_info
+Can I make my own dog treats at home?,DIY
+Do you have a recipe for homemade dog biscuits?,DIY
+Are there any discounts on bulk dog treats?,promotion
+"My dog is a picky eater, any recommendations for treats?",recommendation
+How to choose the right size of treats for my small dog?,information
+What are the benefits of dental dog treats?,information
+Can I give my puppy adult dog treats?,information
+Is it okay to give my dog cat treats?,information
+Are there any organic dog treats available?,product_info
+Can dogs eat pumpkin-flavored treats?,information
+"I'm looking for affordable dog treats, any suggestions?",recommendation
+Where can I find reviews for your dog treats?,reviews
+Do you have a loyalty program for dog treat purchases?,loyalty_program
+Can I return dog treats if my dog doesn't like them?,return_policy
+What is the shelf life of your dog treats?,product_info
+Do you offer free samples of your dog treats?,promotion
+Are there any special holiday-themed dog treats?,promotion
+"My dog has a sensitive stomach, what treats are suitable?",recommendation
+Can I give my dog rawhide treats?,information
+How often should I give my dog treats?,information
+Do you have a store locator for your dog treats?,store_locator
+What are the most popular dog treats right now?,trending
+Can I mix different flavors of dog treats?,information
+"My dog has dietary restrictions, any treats available?",recommendation
+How to store dog treats to keep them fresh?,information
+Can I include dog treats in my dog's regular meals?,information
+Are there any natural dog treats without preservatives?,product_info
+What is the difference between soft and crunchy dog treats?,information
+Do you have any holiday-themed dog treat recipes?,DIY
+Can I give my dog treats during obedience training?,training
+How to train my dog to perform tricks using treats?,training
+Do you offer gift packaging for dog treats?,gifts
+"My dog is overweight, any low-calorie treat options?",recommendation
+Are there any deals on subscription for monthly dog treats?,subscription
+How to make frozen dog treats for summer?,DIY
+Are there any limited edition dog treats available?,promotion
+Can I feed my dog treats made for other animals?,information
+What are the most popular flavors of dog treats?,trending
+Do you have any recommendations for senior dog treats?,recommendation
